@@ -6,10 +6,10 @@ plugins {
 //scala {
 //    zincVersion.set("1.8.0")
 //}
-
+//
 scoverage {
-    scoverageVersion.set("2.0.7")
-    scoverageScalaVersion.set("2.13.10")
+//    scoverageVersion.set("2.0.7")
+    scoverageScalaVersion.set("2.13.8")
 }
 
 repositories {
